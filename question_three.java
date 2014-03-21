@@ -33,11 +33,7 @@ public class question_three{
         ++tail;
         hit[word[i]] = true;
       }
-      else
-      {
-        //remove repition
-        word[i] = 0;
-      }
+
 
     }
     //remove the rest of the reptition
